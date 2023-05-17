@@ -26,8 +26,7 @@ for f in *.zip; do
 
     unzip -q $f content/* -d $folder_name; mv $folder_name/content/* $folder_name/; rm -r $folder_name/content
 
-    no_index_follow="<meta name='robots' content='noindex,nofollow'>"
-    sed '/<head>/a{$no_index_follow}'  $folder_name/index.html >  $folder_name/temp.html && mv  $folder_name/temp.html  $folder_name/index.html
+    sed '/<head>/a$<meta name='robots' content='noindex,nofollow'>'  $folder_name/index.html >  $folder_name/temp.html && mv  $folder_name/temp.html  $folder_name/index.html
     
     echo "Finished unzipping ${f}. Deploying to Github now." 
     git add --all; git commit -m "Adds $folder_name to repository."; git push origin main
