@@ -3,12 +3,6 @@
 # MIT Licence
 # Scott Morgan 2023
 
-# Check for sudo and exit if not
-if [[ $EUID -ne 0 ]]; then
-   echo "This script must be run as root." 
-   exit 1
-fi
-
 # Checks if unzip is installed and installs if not
 if [ $(dpkg-query -W -f='${Status}' unzip 2>/dev/null | grep -c "ok installed") -eq 0 ];
 then
@@ -26,6 +20,7 @@ for f in *.zip; do
 
     unzip -q $f content/* -d $folder_name; mv $folder_name/content/* $folder_name/; rm -r $folder_name/content
 
+    # Adds noindex / nofollow to <meta> tag in <head> of index.html.
     sed '/<head>/a<meta name='robots' content='noindex,nofollow'>'  $folder_name/index.html >  $folder_name/temp.html && mv  $folder_name/temp.html  $folder_name/index.html
     
     echo "Finished unzipping ${f}. Deploying to Github now." 
