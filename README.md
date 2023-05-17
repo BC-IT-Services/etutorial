@@ -10,4 +10,6 @@ Run `course-ul.sh` in bash. This unzips the file appropriately and uploads it to
 
 ## Licence
 
-Licensed under the MIT license. Comments can be made to Scott Morgan <smorgan@bridgend.ac.uk>.
+Script elements licensed under the MIT license. Content elements are either not licensed for reuse, modification or distribution of any kind without express permission of the owner, or contain their own licensing agreements within. 
+
+Comments can be made to Scott Morgan <smorgan@bridgend.ac.uk>.
