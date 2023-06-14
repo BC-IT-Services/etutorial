@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://tkqgNGFx_u_kvmczE9R4Drtx8WN7KJqQ_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Acceptable Use of Data, IT and Social Media</name>
+      <description lang="en-US">&lt;p style=&#34;text-align: justify;&#34;&gt;This program is designed to help you understand the General Data Protection Regulation (GDPR) and the appropriate use of IT and social media at Bridgend College.&amp;nbsp;&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;br&gt;&lt;p style=&#34;text-align: justify;&#34;&gt;With the increasing importance of data security and the widespread use of technology in our daily lives, it&amp;#39;s essential that everyone has a clear understanding of these laws and guidelines. This training will provide you with the knowledge and skills needed to navigate the complex world of GDPR and use technology and social media in a responsible and ethical manner during your time at Bridgend College.&amp;nbsp;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://tkqgNGFx_u_kvmczE9R4Drtx8WN7KJqQ_rise/gwUBbNY8tRbuygnmLzG4KUf53IdEA88e" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">GDPR - Guiding Principles/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://tkqgNGFx_u_kvmczE9R4Drtx8WN7KJqQ_rise/o5e6zEoUXzTS3sTukGeliuDnDKwiUL_B" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">IT Acceptable Use/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://tkqgNGFx_u_kvmczE9R4Drtx8WN7KJqQ_rise/X6GySrKFAorp701fDDWrgkJq57f6Htae" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Social Media Acceptable Use/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
