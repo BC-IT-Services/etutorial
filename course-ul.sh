@@ -20,7 +20,7 @@ for f in *.zip; do
     echo $folder_name
 
     if [ ! -d $folder_name ]; then
-      unzip -q $f content/* -d $folder_name; mv $folder_name/content/* $folder_name/; rm -r $folder_name/content
+      unzip -q $f -d $folder_name; mv $folder_name/content/* $folder_name/; rm -r $folder_name/content
 
       # Adds noindex / nofollow to <meta> tag in <head> of index.html.
       sed '/<head>/a<meta name='robots' content='noindex,nofollow'>'  $folder_name/index.html >  $folder_name/temp.html && mv  $folder_name/temp.html  $folder_name/index.html
