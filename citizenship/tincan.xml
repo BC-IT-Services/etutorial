@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://4SrmvCbfKWTxG0rbHoG7BAlortYxEwyd_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Citizenship</name>
+      <description lang="en-US">This module will give you a better understanding of what we expect from our students, and start you off on your journey of being all that you can be!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://4SrmvCbfKWTxG0rbHoG7BAlortYxEwyd_rise/ISGCsGR7dpkjUFeSAjNt7Tdtjz2ejR7Q" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Be Ready, Respectful, and Safe/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://4SrmvCbfKWTxG0rbHoG7BAlortYxEwyd_rise/Kmd74voVeabJI7qfErZv9BjXgJLZ9UEC" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Citizenship Code/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://4SrmvCbfKWTxG0rbHoG7BAlortYxEwyd_rise/qXV7jCncJxESMnxewMkjEmt6BY8P3WRn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Learning Programme Promise/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
