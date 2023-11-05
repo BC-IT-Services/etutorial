@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://k5tKm7Ymaz_C5Njo2GAMhJpwGomyyCVP_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Entrepreneurship Level 2/ Entrepreneuriaeth Lefel 2</name>
+      <description lang="en-US">&lt;span style=&#34;font-size: 22px;&#34;&gt;&lt;strong&gt;&lt;u&gt;Tutorial Overview/&lt;strong&gt;&lt;u&gt;Trosolwg o&amp;#39;r Tiwtorial&lt;/u&gt;&lt;/strong&gt;&lt;/u&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;font-size: 22px;&#34;&gt;Welcome to the tutorial session. This tutorial focuses on what it takes to become a successful entrepreneur.&amp;nbsp;&lt;/span&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://k5tKm7Ymaz_C5Njo2GAMhJpwGomyyCVP_rise/JJRsgVVfiIm0v3cALSxCQgoRLw4DKCCc" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Entrepreneur/entrepreneur /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://k5tKm7Ymaz_C5Njo2GAMhJpwGomyyCVP_rise/1ETvEalMpvzAuf7fQTfaIOMgmWvlEFXh" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Entrepreneurial skills / Sgiliau entrepreneuraidd/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://k5tKm7Ymaz_C5Njo2GAMhJpwGomyyCVP_rise/7ID9XPrxibUpisOjpElPYeICriBB9hs1" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Enterprise skills quiz / Cwis sgiliau menter/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://k5tKm7Ymaz_C5Njo2GAMhJpwGomyyCVP_rise/M_gxJlAVp6pzm3lABaPFZ7nu9MvNYt1s" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Extension task/Tasg Estyniad/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
