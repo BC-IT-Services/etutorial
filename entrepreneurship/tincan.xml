@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://kUiJqI6GMywIcI1VtUHvu199-QT5Yvq-_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Entrepreneurship/Entrepreneuriaeth</name>
+      <description lang="en-US">&lt;span style=&#34;font-size: 22px;&#34;&gt;&lt;strong&gt;&lt;u&gt;Tutorial Overview / Trosolwg o&amp;#39;r Tiwtorial&lt;/u&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;font-size: 22px;&#34;&gt;Welcome to the tutorial session. This tutorial session is about entrepreneurship and why it&amp;rsquo;s a viable career option. You will explore the attributes and qualities shared by successful entrepreneurs and learn skills required to be a successful entrepreneur. Also, you will have the opportunity to speak with the &amp;#39;Entrepreneurship Officer&amp;#39; at Bridgend College for advice or support.&amp;nbsp;&lt;/span&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://kUiJqI6GMywIcI1VtUHvu199-QT5Yvq-_rise/yBaBAdRJVIYOlGWN-n4tMFRyW2_yxO1z" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Entrepreneurial skills / Sgiliau entrepreneuraidd/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://kUiJqI6GMywIcI1VtUHvu199-QT5Yvq-_rise/GAJLXDMfpoicVW1mLWbkIEg9I2WeA1CH" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Entrepreneurship at Bridgend College/Entrepreneuriaeth/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://kUiJqI6GMywIcI1VtUHvu199-QT5Yvq-_rise/Y5tSj9CFP3eaDJ9oN8sleIFImd401CMP" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Extension Task/Tasg Estyniad/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
