@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://o_WRCdnkNNjJFjh2SIXsMaI9fJoncvCo_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Building stronger you level 2</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://o_WRCdnkNNjJFjh2SIXsMaI9fJoncvCo_rise/0Kv1YVh3Sf3bjjK29gsUop9jVK-sIx54" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">What is Resilience?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://o_WRCdnkNNjJFjh2SIXsMaI9fJoncvCo_rise/UQ_4Xthc5lB93yg6qojVFePIqAExbP2V" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">The 5 Pillars of Personal Resilience/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://o_WRCdnkNNjJFjh2SIXsMaI9fJoncvCo_rise/YBpKchQL1P7vlK6o5VlG_3e0RBvYhxT6" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Tips for Staying Adaptable and Resilient/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://o_WRCdnkNNjJFjh2SIXsMaI9fJoncvCo_rise/9dZlHSQeGTmDcGdLt0EgAgMtKVTY-m4p" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">8 Habits of Lifelong Learners/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
