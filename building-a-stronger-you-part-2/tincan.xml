@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://WQyzeOfMDu6ikiJPBvzL0rLpEscLF38i_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Building A Stronger You part 2/ Adeiladu Chi Cryfach rhan 2</name>
+      <description lang="en-US">Sesiwn diwtorial yr wythnos hon byddwch yn archwilio&amp;rsquo;r cymorth sydd ar gael yng Ngholeg Penybont. Byddwch yn dysgu mwy am Les, y t&amp;icirc;m a sut y gallant eich cefnogi yn fwy manwl.&amp;nbsp;This week tutorial session you will explore support available at Bridgend College.You will learning more about Wellbeing, the team and how they can support you in more detail.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://WQyzeOfMDu6ikiJPBvzL0rLpEscLF38i_rise/MzgGEKf0rrBNW6j1bGk0LS60hZmz8UNX" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Resilience Awareness &amp; Student Wellbeing Support / Ymwybyddiaeth o Wytnwch a Chymorth Lles Myfyrwyr/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
