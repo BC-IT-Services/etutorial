@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://QxDhcKWK8fyAI-vHWp6SZApRv9ipck4u_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Managing My Money level-2 (Part -2)</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://QxDhcKWK8fyAI-vHWp6SZApRv9ipck4u_rise/3XcnxcizB-k2gJNhY1WB3D3w_RLzaQot" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Managing My Money /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
