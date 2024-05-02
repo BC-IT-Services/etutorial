@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://wJpn1wEPAfrTJVgznrI1dO0QEIXJ1w0V_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Healthy relationships (Level-3)</name>
+      <description lang="en-US">In this e-tutorial, you will:&lt;ol&gt;&lt;li&gt;Learn about the characteristics of healthy and unhealthy relationships.&lt;/li&gt;&lt;li&gt;Explore how to seek help or support with relationships when you need it.&lt;/li&gt;&lt;/ol&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://wJpn1wEPAfrTJVgznrI1dO0QEIXJ1w0V_rise/tRa2a22l3WqX1YXSrnl_T8iOcR_YQYQt" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Healthy Relationships!/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://wJpn1wEPAfrTJVgznrI1dO0QEIXJ1w0V_rise/a_fsSNL4ev5_CYZ2dcWVq3xUj1c2dbP_" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Unhealthy relationships /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
