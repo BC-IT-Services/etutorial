@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://0jn9g2_qx_09Zzw-tWBGjIR6r0_jz2Du_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Me &amp; My Wellbeing (Level-2)</name>
+      <description lang="en-US">Good choices lead to good wellbeing.&amp;nbsp;&lt;br&gt;This e-tutorial you will be able to understand:&lt;ul&gt;&lt;li&gt;What is good wellbeing.&lt;/li&gt;&lt;li&gt;How to avoid poor habits.&lt;/li&gt;&lt;li&gt;How to manage stress.&lt;/li&gt;&lt;/ul&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://0jn9g2_qx_09Zzw-tWBGjIR6r0_jz2Du_rise/vIbOcYLw2QomgbkKiUFWNcppBSfkM2_g" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Me My Wellbeing /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0jn9g2_qx_09Zzw-tWBGjIR6r0_jz2Du_rise/kj4oiGJ5lzEwM-N4sNq0iCqOgEqphv8o" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Poor Wellbeing  /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0jn9g2_qx_09Zzw-tWBGjIR6r0_jz2Du_rise/zXOdUlmiSIF6-hcTeCVtHGe0528jHrD5" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Manage stress  /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
