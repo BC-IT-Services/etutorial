@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<manifest identifier="uYqNsyv4XBWIJPwxsZ3uO5hzE8CTRQ3CdmtBQkD6" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Net Zero Wales | Module 1 | Net Zero and Climate Change</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Net Zero Wales | Module 1 | Net Zero and Climate Change</title>
+        <adlcp:datafromlms>eyJjcHYiOiJkbXRCUWtENiIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/RobotoSlab-Bold.woff" />
+<file href="scormcontent/lib/fonts/RobotoSlab-Regular.woff" />
+<file href="scormcontent/lib/fonts/RobotoSlab-Light.woff" />
+<file href="scormcontent/lib/fonts/EYHiQ0VMh4dPLmaE-FrutigerLTStd-Bold.woff" />
+<file href="scormcontent/lib/fonts/fRjoWzz93hBrniLF-FrutigerLTStd-Cn.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/assets/Cnfd42FsToj-lC5__small.png" />
+<file href="scormcontent/assets/ftLAfba8D6ORjeOe_small.png" />
+<file href="scormcontent/assets/fx6AV9w7IIDQ9tGg_RlXmvWcw5xO71XWv.jpg" />
+<file href="scormcontent/assets/qzTWM98r9Lcgdvht_transcoded-j_VxLnw-bM85jSpW-2021GISStempF-5yrAvg-00001.png" />
+<file href="scormcontent/assets/jJ0kRJIapO5-CYY8_transcoded-j_VxLnw-bM85jSpW-2021GISStempF-5yrAvg.mp4" />
+<file href="scormcontent/assets/JNwDJCzyqy6V5WIT_QOk5Yey6GWbpveTk.jpg" />
+<file href="scormcontent/assets/yGb-5mZfkCyMzPgZ_mountains.jpg" />
+<file href="scormcontent/assets/bSKn8i5QzNy1_t6j_oLzXuSJpxD0uxVuG.jpg" />
+<file href="scormcontent/assets/nVcywP0b5BJsOKTf_YRBwgm-B3Xx_5HAN.jpg" />
+<file href="scormcontent/assets/79DejN4kKAKyPgvt_NAU3eJq2jOyO1juY.jpg" />
+<file href="scormcontent/assets/pGzO9Euzkt4yM8BM_transcoded-_uAZ9_i8YR4WpkLq-carbon-cycle-00001.png" />
+<file href="scormcontent/assets/zv9pmhjzdclisuIj_transcoded-_uAZ9_i8YR4WpkLq-carbon-cycle.mp4" />
+<file href="scormcontent/assets/ptxv3XN8NSLWYzmQ_5YWcJKZAmkG_IDnj.jpg" />
+<file href="scormcontent/assets/k2SPS4-_y97REQas_eGQAhW3BEEBcWwU0.jpg" />
+<file href="scormcontent/assets/qKCnmQDcZnojNH4T_cgMlGYJGLXnw01Pn.jpg" />
+<file href="scormcontent/assets/8PeqURtgzSmnqU9x_S6H7mpSTT2lAlebv.jpg" />
+<file href="scormcontent/assets/WYXEvV5yYvIqVGv9_kVU1psve1w_-CCJK.jpg" />
+<file href="scormcontent/assets/dn-RL3YbWSarwdLq_xmRVGs3twikp0Llp.jpg" />
+<file href="scormcontent/assets/UsaT--ySwszpHUs4_AlPujrAm0Mo63ks8.jpg" />
+<file href="scormcontent/assets/imIFxMSFxZrbp8wv_transcoded-k6tH4rYE0CjQcxWE-Anatomy_Glacier_FINAL-00001.png" />
+<file href="scormcontent/assets/lTxcleUTvE74tudf_transcoded-k6tH4rYE0CjQcxWE-Anatomy_Glacier_FINAL.mp4" />
+<file href="scormcontent/assets/9vgF2WYQZVn34sHu_ueLxvHBt-gfoCFP--netzero_pledge.pdf" />
+<file href="scormcontent/assets/WeM0OD_JtbLh7so6_kPS4z5IWjIN68pZd.png" />
+<file href="scormcontent/assets/zcSex7zHvl47WNEH_cmUkh-AXnak2bQoz.png" />
+<file href="scormcontent/assets/xUZfOmxptClnRR2A_10_hospitality.jpg" />
+<file href="scormcontent/assets/CZ2jgptSY98sE9v0_example-header-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
